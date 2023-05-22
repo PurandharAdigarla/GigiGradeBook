@@ -1,0 +1,15 @@
+install node and  npm
+npm install -g npm
+
+verify the install packages
+npm -v
+node -v
+
+install Angular
+npm install -g @angular/cli
+
+in folder
+npm install
+
+to execute the code modules
+ng serve
